@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "A tailwind plugin for creating bigger click areas without changing layout flow.",
   "main": "index.js",
-  "repository": "stilltocome",
+  "repository": "https://github.com/katerlouis/tailwind-bigger-click",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
