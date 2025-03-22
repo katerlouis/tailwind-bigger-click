@@ -1,6 +1,6 @@
 {
   "name": "@katerlouis/tailwind-bigger-click",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A tailwind plugin for creating bigger click areas without changing layout flow.",
   "main": "index.js",
   "repository": "https://github.com/katerlouis/tailwind-bigger-click",
