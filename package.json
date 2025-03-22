@@ -1,0 +1,22 @@
+{
+  "name": "@katerlouis/tailwind-bigger-click",
+  "version": "1.0.0",
+  "description": "A tailwind plugin for creating bigger click areas without changing layout flow.",
+  "main": "index.js",
+  "repository": "stilltocome",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tailwind",
+    "tailwindcss"
+  ],
+  "author": "René Eschke",
+  "license": "ISC",
+  "publishConfig": {
+    "access": "public"
+  },
+  "peerDependencies": {
+    "tailwindcss": ">=3.0.0 || insiders"
+  }
+}
